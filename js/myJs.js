@@ -138,7 +138,7 @@ const textConfig = {
             text: textConfig.text11,
             confirmButtonColor: "#83d0c9",
             onClose: () => {
-              window.location = "http://fb.com";
+              window.location = "https://ttol.vietnamnetjsc.vn/images/2019/04/22/06/40/Con-yeu-me-nhieu-6.jpg";
             },
           });
         }
