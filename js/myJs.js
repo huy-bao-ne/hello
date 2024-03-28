@@ -2,7 +2,7 @@ const textConfig = {
     text1: "He luu mẹ iu dấu!",
     text2: "Con có điều này muốn hỏi mẹ nhớ phải trả lời thật lòng nhaaa.",
     text3: "Chiều thứ bảy này mẹ cho con đi chơi nha",
-    text4: "Nếu mẹ ko trả lời mà thoát ra là tình mẹ con chấm dứt đó",
+    text4: "Nếu mẹ không trả lời mà thoát ra là tình mẹ con chấm dứt đó",
     text5: "Không có đâu con gái ơi",
     text6: "Con cứ đi thoải mái nha<3",
     text7: "9h hơn con mới về nha mẹ:vvvv",
